@@ -1,6 +1,8 @@
-**Algoriths DSA-Spring2020
+#Algoriths DSA-Spring2020
 <pre>
-This repository has all the homework/assignment questions & solutions, project, term paper and midterm exam 2 (programming questions) along with all the relevant documentation for the course of Data Structures and Algorithms course (16:332:573) at Rutgers University in the department of Electrical and Computer Engineering. The final grade for the course is A.
+This repository has all the homework/assignment questions & solutions, project, term paper and midterm exam 2 (programming questions) 
+along with all the relevant documentation for the course of Data Structures and Algorithms course (16:332:573) at Rutgers University 
+in the department of Electrical and Computer Engineering. The final grade for the course is A.
 
 Homeworks:
 	Homework 1: 91/100
