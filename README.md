@@ -1,4 +1,4 @@
-#Algoriths DSA-Spring2020
+<b>Algorithms DSA-Spring2020</b>
 <pre>
 This repository has all the homework/assignment questions & solutions, project, term paper and midterm exam 2 (programming questions) 
 along with all the relevant documentation for the course of Data Structures and Algorithms course (16:332:573) at Rutgers University 
