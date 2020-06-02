@@ -1,0 +1,7 @@
+q2_1 is the Kruskals
+q2_2 is the Prims Eager
+q2_3 is the Prims Lazy
+
+Further code is commented and output also reflect which algorithm used.
+
+Dataset has been placed as Dataset1_2.txt as it is used for 1 and 2.
