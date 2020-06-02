@@ -1,0 +1,13 @@
+Note for the execution of this program for the desired input array:
+
+1.The input array is hardcoded .
+2.Please change the macro N for the value of number of elements in the array
+3.Then change the input array in the cpp file
+4.And then run to see the output for the desired input array.
+
+Output :
+a.Display the distance between the max and min element and hence farthest distance and the two elements who are the max and min.
+b.Display the number of times loop executed i.e. the counter for checking the algorithm complexity which is less than or equal to length of the array hence complexity O(N) as it can also been seen easily in the program with only one loop and accessing all elements of the array only once max .
+
+
+

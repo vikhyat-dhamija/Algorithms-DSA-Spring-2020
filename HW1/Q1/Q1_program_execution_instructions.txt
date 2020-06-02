@@ -1,0 +1,8 @@
+Note for the execution of the program implementation for the q1 :
+
+
+a.That for running the programs it is assumed that the files are stored in the same folder as the program 
+
+b.And there is a need to just change the 8/32 like numbers in the file name and the N macro defined above as per the size of the input dataset , in order to see the results of the execution of program with various input sizes .
+
+c.Program will display the counter value that determines the cost of the algorithm.

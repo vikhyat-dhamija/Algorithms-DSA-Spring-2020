@@ -1,0 +1,7 @@
+Note for the execution of the program:
+
+1.First that the array is hardcoded.
+2.You need to change the values of the array.
+3.Using the size method program automatically calculates the number of elements and then using this number works further.
+4.So Please change the values of the array in the cpp file for changing the input set.
+5.Note that as it was not mentioned so  it is assumed that there are distinct numbers in the input array.

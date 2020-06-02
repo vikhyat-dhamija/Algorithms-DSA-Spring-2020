@@ -1,0 +1,6 @@
+Notes regarding program execution for Q2:
+
+1.You just need to change the filename of the input pair data set , just replace the 8 ,32 etc. in front of the file name and please not change the Macro which defines 8192 the length of the array.
+2.All files must be in the same folder as that of the program other wise the location of the file has to properly mentioned in the name of the file.
+3.As asked in the question first , find operation whether connected is done and then the union operation is performed and the pair is printed 
+4.At last , counter value measuring the complexity is printed.
