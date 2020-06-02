@@ -24,7 +24,7 @@ Project: Collision Detection and Avoidance using Convex Hull Algorithms
 	Code files
 	Instructions to run the code files
 	Datasets
-Term Paper: Sequence Alignment Methods in Bioinformatics for Biological Sequences
+Term Paper: Mean Shift Algorithm and its applications in Computer Vision
 	Marks:8/10
 	Term Paper Document
 Midterm Exam 2: Programming Questions
