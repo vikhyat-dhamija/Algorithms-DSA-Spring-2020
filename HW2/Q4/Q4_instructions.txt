@@ -1,0 +1,7 @@
+Instructions:-
+
+1.This program is about comparison of diffrent sorting algorithms for our desired data.
+2.Data related to performance for various algorithms is presented as output
+3.Note that output sorted data is not displayed
+4.Print command of data is there after every type of sorting so if u want then you can uncomment that print command.
+5.Data files should be in the same folder

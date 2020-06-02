@@ -1,0 +1,5 @@
+Instructions:-
+
+1.Analysis data and the sorted data is being presented as an output
+2.Data files should be in the same folder
+3. Please change the name of the file for which you want the algorithm to perform

@@ -1,0 +1,6 @@
+Instructions for q2:-
+
+1. Program is tested in the python 3 environment
+2. First filename is data0.* i.e the sorted and the second time same filename is data1.*
+3. For running for various size datasets please change only the number part that is after the . part for both filenames
+4.The Kendall Tau distance and the comparison counter is being displayed.

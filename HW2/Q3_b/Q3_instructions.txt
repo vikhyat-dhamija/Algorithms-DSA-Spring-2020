@@ -1,0 +1,5 @@
+Instructions for the Q3:-
+
+1.Please change the file name according to the data sets you want to execute this code with.
+2.Files should be in the same folder
+3.Sorted data and related parameters are displayed

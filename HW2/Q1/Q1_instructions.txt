@@ -1,0 +1,8 @@
+Instructions for program q1:-
+
+a. Tested in Python 3 environment
+b. All Data files should be in one folder
+c. Please change the file name for executing the code on that data file
+d. All the comparison data is being given as output by the code and if you want then 
+please add print(data) command wherever you want to sorted data print as data is the name of the list
+where the data is stored and which gets sorted , I am doing it for one case only where Shell Sort 7,3,1
